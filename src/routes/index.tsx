@@ -303,6 +303,3 @@ function AddInvoiceSheet({
     </div>
   );
 }
-
-// Keep Link import used for future navigation
-void Link;
